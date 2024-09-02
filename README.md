@@ -1,0 +1,1 @@
+Developed a user-friendly Restaurant Management System with interfaces for displaying restaurant details, menu specials, operating hours, and table reservations, enhancing customer experience and streamlining restaurant operations.
